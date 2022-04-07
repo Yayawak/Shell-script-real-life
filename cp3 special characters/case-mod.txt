@@ -1,0 +1,5 @@
+veryMixedUpVariable
+VeryMixedUpVariable
+VERYMIXEDUPVARIABLE
+veryMixedUpVariable
+verymixedupvariable

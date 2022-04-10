@@ -1,0 +1,15 @@
+อา. 10 เม.ย. 2565 21:17:26 +07
+Linux liberio-X550JX 5.13.0-39-generic #44~20.04.1-Ubuntu SMP Thu Mar 24 16:43:35 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+
+
+
+อา. 10 เม.ย. 2565 21:17:49 +07
+Linux liberio-X550JX 5.13.0-39-generic #44~20.04.1-Ubuntu SMP Thu Mar 24 16:43:35 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+[ 55.831841] kernel: ath: regdomain 0x82fc dynamically updated by
+country element [ 55.904719] kernel: wlp3s0: Limiting TX power to 27
+(27 - 0) dBm as advertised by e0:19:54:97:05:3c [ 56.234383] kernel:
+IPv6: ADDRCONF(NETDEV_CHANGE): wlp3s0: link becomes ready [ 59.522544]
+kernel: loop46: detected capacity change from 0 to 8 [ 63.482354] kernel:
+nouveau 0000:01:00.0: Enabling HDA controller
+
+

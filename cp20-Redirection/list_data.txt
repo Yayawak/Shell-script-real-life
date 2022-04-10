@@ -1,0 +1,16 @@
+total 8
+-rw-rw-r-- 1 liberio liberio 318 เม.ย. 10 18:40 exampleOfRedir.bash
+-rw-rw-r-- 1 liberio liberio   0 เม.ย. 10 18:40 list_data.txt
+-rw-rw-r-- 1 liberio liberio   0 เม.ย. 10 18:37 new_list.txt
+-rw-rw-r-- 1 liberio liberio 177 เม.ย. 10 18:24 redir-block.bash
+-rw-rw-r-- 1 liberio liberio   0 เม.ย. 10 18:37 zeroLengthFile.txt
+--------
+.:
+total 20
+drwxrwxr-x  2 liberio liberio 4096 เม.ย. 10 18:35 .
+drwxrwxr-x 17 liberio liberio 4096 เม.ย. 10 18:21 ..
+-rw-rw-r--  1 liberio liberio  318 เม.ย. 10 18:40 exampleOfRedir.bash
+-rw-rw-r--  1 liberio liberio  370 เม.ย. 10 18:40 list_data.txt
+-rw-rw-r--  1 liberio liberio    0 เม.ย. 10 18:37 new_list.txt
+-rw-rw-r--  1 liberio liberio  177 เม.ย. 10 18:24 redir-block.bash
+-rw-rw-r--  1 liberio liberio    0 เม.ย. 10 18:40 zeroLengthFile.txt
